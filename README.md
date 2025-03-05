@@ -1,6 +1,6 @@
 ## Комментарии по запуску:
 
-После поднятия докера (docker-compose up -d --build) и создания каталога postgres_data необходимо вписать комманду sudo chmod -R 755 postgrs_data и после этого запускать сервер uvicorn.
+После поднятия докера (docker-compose up -d --build) и создания каталога postgres_data, необходимо вписать комманду sudo chmod -R 755 postgrs_data и после этого запускать сервер uvicorn.
 
 ## Изменения по урокам
 
